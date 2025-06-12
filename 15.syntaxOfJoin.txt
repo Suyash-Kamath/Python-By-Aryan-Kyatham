@@ -1,0 +1,12 @@
+
+string_variable = 'separator'.join(iterable)
+
+| Part                    | Meaning                                                                                                           |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| `'separator'`           | This is the **string** you want to put between each element (e.g., space `' '`, comma `','`, nothing `''`, etc.). |
+| `.join(iterable)`       | The method that takes an **iterable** (like a list or tuple) of **strings** and joins them using the separator.   |
+| `string_variable = ...` | Stores the resulting joined string into a variable.                                                               |
+
+
+
+
