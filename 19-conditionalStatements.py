@@ -9,7 +9,7 @@ Nested if-else-elif: Conditions within conditions.
 iphonePrice = 60000
 budget = 20000
 if budget < iphonePrice:
-    print("Kamao bsdk!")
+    print("Kamao bhai!")
 else:
     print("lele bhai")
 
